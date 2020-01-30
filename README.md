@@ -3,7 +3,7 @@
 ## Markdown is a lightweight markup language, allowing people "to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)"
 
 #### Live demo: 
-[CodePen] (https://codepen.io/iancarlo-lab/pen/ExxEZWa?editors=0010)
+[CodePen](https://codepen.io/iancarlo-lab/pen/ExxEZWa?editors=0010)
 
 #### Technologies used:
 
